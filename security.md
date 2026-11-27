@@ -192,4 +192,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Hollow Knight · Updated 2026-11-26 · Shared under the MIT License*
+*Hollow Knight · Updated 2026-11-27 · Shared under the MIT License*
